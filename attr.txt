@@ -1,0 +1,6 @@
+Attribute to be selected:
+- Black_Hair
+- Blond_Hair
+- Straight_Hair
+- Wavy_Hair
+- Male

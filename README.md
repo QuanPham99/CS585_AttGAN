@@ -1,1 +1,1 @@
-# CS585_Final_Project
+# CS585_AttGAN
